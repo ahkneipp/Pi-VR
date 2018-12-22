@@ -111,3 +111,17 @@ sysinfo.txt
 # Crashlytics generated file
 Assets/StreamingAssets/crashlytics-build.properties
 
+##Created by touch-gitignore##
+#COMPILER GARBAGE#
+*.i
+*.s
+*.o
+#VIM#
+*.swp
+*.swo
+#INTELLIJ FILES AND DIRS#
+.idea/
+bin/
+.classpath
+.project
+*.iml
